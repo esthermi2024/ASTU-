@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aster! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Full stack developer </a>, 
+<h1>Hi, I'm Aster! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Full stack developer </a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
