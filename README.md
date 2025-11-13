@@ -19,6 +19,18 @@ Here are some ideas to get you started:
   
 - 💬 Ask me about ...
 - 📫 How to reach me:use my email, astermitiku2018@gmail.com
+- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=4c51bf&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer;Building+Amazing+Things;Let's+Connect!;Thanks+for+visiting! 🚀" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,prs" />
+</div>
+
+<!-- This pushes the join date lower on the page -->
+
   
   
 -->
